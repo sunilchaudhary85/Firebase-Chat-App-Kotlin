@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "99920422861",
+    "project_id": "chatapp-kotlin-10780",
+    "storage_bucket": "chatapp-kotlin-10780.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99920422861:android:a01a5e766861c2f8bfc684",
+        "android_client_info": {
+          "package_name": "com.example.kotlinchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDcKaOptIDRMnFEN4cvAnJCLOQjHlbr6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99920422861:android:ddea4e2e99f87ad9bfc684",
+        "android_client_info": {
+          "package_name": "com.example.kotlinchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDcKaOptIDRMnFEN4cvAnJCLOQjHlbr6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
