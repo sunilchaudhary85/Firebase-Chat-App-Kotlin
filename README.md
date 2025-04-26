@@ -4,22 +4,22 @@ Welcome to the Firebase Chat App Kotlin! This app enables real-time chat functio
 
 ## Features
 1. Authentication
-   ● Sign up / Sign in screen using email and password.
-   ● Use Firebase Authentication or your own backend.
-2. Chat List
+   a. Sign up / Sign in screen using email and password.
+   b. Use Firebase Authentication or your own backend.
+3. Chat List
    ● Display a list of existing conversations.
    ● Each list item shows:
    ○ User’s name
    ○ Last message
    ○ Timestamp
-3. Chat Screen
+4. Chat Screen
    ● One-to-one chat interface.
    ● Real-time message sending and receiving.
    ● Display full chat history
-4. User Search
+5. User Search
    ● Search users by username.
    ● Start a new chat by selecting a user.
-5. Data Storage
+6. Data Storage
    ● Use Firebase Firestore or your custom backend to store:
    ○ User profiles
    ○ Chat messages
